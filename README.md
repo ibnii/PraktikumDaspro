@@ -1,2 +1,2 @@
-Repo khusus Praktikum Dasar Pemograman (POLINEMA) 
+Repo khusus Praktikum Dasar Pemograman 
 -IBNI ANDARTA 
