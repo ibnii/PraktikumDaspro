@@ -9,6 +9,8 @@ public class ifCetakKRS13 {
         if (uktLunas) {
             System.out.println("Pembayaran UKT telah diverifikasi");
             System.out.println("Silahkan cetak KRS dan minta tanda tangan ke DPA");
+        }else{
+            System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
         }
 
 
