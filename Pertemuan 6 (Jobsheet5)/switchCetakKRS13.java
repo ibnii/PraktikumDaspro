@@ -4,7 +4,7 @@ public class switchCetakKRS13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(" --- Cetak KRS SIAKAD");
+        System.out.println(" --- Cetak KRS SIAKAD ---");
         System.out.print("Masukkan semester Anda: ");
         int semester = sc.nextInt();
 
@@ -37,7 +37,6 @@ public class switchCetakKRS13 {
                 System.out.println("Semester tidak valid.");
                 break;
         }
-
         sc.close();   
     }
     
