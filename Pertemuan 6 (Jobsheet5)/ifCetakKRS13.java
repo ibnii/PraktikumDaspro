@@ -6,13 +6,8 @@ public class ifCetakKRS13 {
         System.out.print("Apakah UKT sudah lunas? (true/false): ");
         boolean uktLunas = sc.nextBoolean();
 
-        if (uktLunas) {
-            System.out.println("Pembayaran UKT telah diverifikasi");
-            System.out.println("Silahkan cetak KRS dan minta tanda tangan ke DPA");
-        }else{
-            System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
-        }
-
+        System.out.println(uktLunas ? "Pembayaran UKT telah diverifikasi\nSilahkan cetak KRS dan minta tanda tangan ke DPA"
+        : "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
 
         sc.close();
 
