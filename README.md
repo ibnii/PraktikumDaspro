@@ -1,4 +1,4 @@
-# 🚀 Tugas Praktikum Coding — Daspro dan Pradaspro / TI-1G
+# 🚀 Tugas Praktikum Coding — Ibni Andarta / TI-1G
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success.svg)](#-status-proyek)
