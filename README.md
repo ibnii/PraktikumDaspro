@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="Repo Status">
-  <img src="https://img.shields.io/badge/made%20with-Jbennn-blueviolet?style=for-the-badge" alt="Template">
+  <img src="https://img.shields.io/badge/made%20with-Ibennn-blueviolet?style=for-the-badge" alt="Template">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
