@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Ibni Andarta / TI-1G
+  Ibennn / TI-1G
 </h3>
 
 <p align="center">
@@ -15,29 +15,40 @@
 
 ---
 
-## 👋 Tentang Repo Ini
+## 👋 Selamat Datang!
 
-Repo ini adalah kumpulan tugas praktikum dan latihan dari mata kuliah **Daspro (Dasar Pemrograman)** dan **Pradaspro (Praktikum Dasar Pemrograman)** selama menempuh **Tahun Pertama** di **Politeknik Negeri Malang (Polinema)**.
+Repo ini berisi kumpulan tugas praktikum dan latihan dari mata kuliah **Daspro (Dasar Pemrograman)** dan **Pradaspro (Praktikum Dasar Pemrograman)**.
 
-Tujuan utama repo ini dibuat adalah untuk:
-* 📚 Mendokumentasikan progres belajar
-* ✨ Membagikan solusi yang rapi dan terstruktur
-* 💡 Menjadi referensi bagi siapa pun yang mempelajari materi serupa
+> Tujuan utama repo ini adalah untuk mendokumentasikan progres belajar, membagikan solusi yang rapi, dan menjadi referensi bagi siapa pun yang mempelajari materi serupa di **Politeknik Negeri Malang (Polinema)**.
 
----
+<br>
 
-## 🎯 Fokus & Target
+## 🎯 Fokus & Objektif
 
-### Fokus Utama
-Implementasi konsep-konsep dasar pemrograman dengan bahasa **Java**.
+### 👨‍💻 Fokus Utama
+Implementasi konsep-konsep dasar pemrograman dengan bahasa **Java** secara bersih dan efisien.
 
-### Target
-1.  **Kesesuaian:** Menyelesaikan semua tugas praktikum sesuai dengan kriteria penilaian yang diberikan.
-2.  **Kualitas Kode:** Menjaga kualitas kode agar tetap *clean*, modular, dan terdokumentasi dengan baik.
-3.  **Refleksi:** Mencatat pembelajaran dan tantangan yang dihadapi di setiap tugas sebagai bahan evaluasi.
+### 🚩 Target & Kriteria
+Berikut adalah 3 target utama yang ingin dicapai melalui repo ini:
+
+<details>
+  <summary><strong>Klik untuk melihat 3 Target Utama</strong></summary>
+  <br>
+  <ol>
+    <li>
+      <strong>Kesesuaian:</strong> Menyelesaikan semua tugas praktikum sesuai dengan kriteria penilaian yang diberikan.
+    </li>
+    <li>
+      <strong>Kualitas Kode:</strong> Menjaga kualitas kode agar tetap <i>clean</i>, modular, dan terdokumentasi dengan baik.
+    </li>
+    <li>
+      <strong>Refleksi:</strong> Mencatat pembelajaran dan tantangan yang dihadapi di setiap tugas sebagai bahan evaluasi.
+    </li>
+  </ol>
+</details>
 
 ---
 
 <p align="center">
-  Semoga bermanfaat!
+  ✨ Semoga Bermanfaat! ✨
 </p>
