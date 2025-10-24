@@ -1,20 +1,43 @@
-# 🚀 Tugas Praktikum Coding — Ibni Andarta / TI-1G
+<h1 align="center">
+  🚀 Tugas Praktikum Coding 🚀
+</h1>
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](#-status-proyek)
-[![Made with Ibennn](https://img.shields.io/badge/made%20with-Ibennn-ff69b4.svg)](#-tentang-repo)
-[![Language](https://img.shields.io/badge/language-Java-blue.svg?logo=java&logoColor=white)](#-teknologi--alat)
+<h3 align="center">
+  Ibni Andarta / TI-1G
+</h3>
 
-
-> Repo ini berisi kumpulan **tugas praktikum** / **latihan** dari mata kuliah/kelas **Daspro dan Pradaspro** pada **Tahun pertama** di Polinema.  
-> Tujuan repo ini dibuat adalah untuk **mendokumentasikan progres belajar**, **membagikan solusi yang rapi**, dan **menjadi referensi** bagi siapa pun yang mempelajari materi serupa.
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="Repo Status">
+  <img src="https://img.shields.io/badge/made%20with-Jbennn-blueviolet?style=for-the-badge" alt="Template">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</p>
 
 ---
 
-## ✨ Tentang Repo
-- **Fokus**: Implementasi konsep dasar pemograman dengan **Java**.
-- **Target**: 
-  1) Menyelesaikan tugas praktikum sesuai kriteria penilaian,  
-  2) Menjaga kualitas kode (rapi, modular, terdokumentasi),  
-  3) Mencatat pembelajaran & tantangan tiap tugas.
+## 👋 Tentang Repo Ini
 
+Repo ini adalah kumpulan tugas praktikum dan latihan dari mata kuliah **Daspro (Dasar Pemrograman)** dan **Pradaspro (Praktikum Dasar Pemrograman)** selama menempuh **Tahun Pertama** di **Politeknik Negeri Malang (Polinema)**.
+
+Tujuan utama repo ini dibuat adalah untuk:
+* 📚 Mendokumentasikan progres belajar
+* ✨ Membagikan solusi yang rapi dan terstruktur
+* 💡 Menjadi referensi bagi siapa pun yang mempelajari materi serupa
+
+---
+
+## 🎯 Fokus & Target
+
+### Fokus Utama
+Implementasi konsep-konsep dasar pemrograman dengan bahasa **Java**.
+
+### Target
+1.  **Kesesuaian:** Menyelesaikan semua tugas praktikum sesuai dengan kriteria penilaian yang diberikan.
+2.  **Kualitas Kode:** Menjaga kualitas kode agar tetap *clean*, modular, dan terdokumentasi dengan baik.
+3.  **Refleksi:** Mencatat pembelajaran dan tantangan yang dihadapi di setiap tugas sebagai bahan evaluasi.
+
+---
+
+<p align="center">
+  Semoga bermanfaat!
+</p>
