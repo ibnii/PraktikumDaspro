@@ -7,7 +7,7 @@ public class Square13 {
         System.out.print("Masukkan nilai n\t: ");
         int n = sc.nextInt();
 
-        for (int iOuter = 0; iOuter < n; iOuter++) {
+        for (int iOuter = 1; iOuter <= n; iOuter++) {
             for (int i = 1; i <= n; i++) {
                 System.out.print("* ");
             }
