@@ -6,6 +6,9 @@ public class NilaiKelompok13 {
         int nilai;
         float totalNilai,rataNilai;
 
+        float maxNilai = 0;
+        int maxKelompok = 0;
+
         for (int i = 0; i < 6; i++) {
             System.out.println("Kelompok "+(i+1));
             totalNilai = 0;
@@ -15,8 +18,14 @@ public class NilaiKelompok13 {
                 totalNilai += nilai;
             }
             rataNilai = totalNilai/5;
+            if (rataNilai > maxNilai){
+                maxNilai = rataNilai;
+                maxKelompok = (i+1);
+            }
             System.out.println("Kelompok " + (i+1) + ": nilai rata rata\t= " + rataNilai);
         }
+
+        System.out.println("\n\nKelompok "+maxKelompok+" adalah nilai tertinggi\t: " +maxNilai);
 
     }
 }
