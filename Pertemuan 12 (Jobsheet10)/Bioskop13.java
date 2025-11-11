@@ -9,7 +9,6 @@ public class Bioskop13 {
         penonton[2][0] = "Eka";
         penonton[2][1] = "Fani";
         penonton[3][0] = "Gina";
-        penonton[3][1] = "Hana";
 
         System.out.printf("%s \t %s\n", penonton[0][0], penonton[0][1]);
         System.out.printf("%s \t %s\n", penonton[1][0], penonton[1][1]);
